@@ -1,0 +1,14 @@
+2024-03-10 16:20:41.309 HOST:WebDAV:initiate connection to plugin
+2024-03-10 16:20:41.322 HOST:WebDAV:bindService failed, calling awaken function
+2024-03-10 16:20:41.325 HOST:WebDAV:awaken plugin...
+2024-03-10 16:20:41.879 HOST:WebDAV:bindService 2 succeeded
+2024-03-10 16:20:41.920 HOST:WebDAV:WaitUntilConnected:Background
+2024-03-10 16:20:42.113 HOST:WebDAV:Service connected!
+2024-03-10 16:20:42.164 HOST:WebDAV:get dir: /
+2024-03-10 16:20:42.200 WebDAV:LIST /
+2024-03-10 16:20:44.967 WebDAV:open /<Настройки>
+2024-03-10 16:32:20.411 HOST:WebDAV:Service disconnected!
+2024-03-11 00:09:47.081 tc:Move 5 files:/storage/emulated/0/Download/->/storage/426D-1E10/
+2024-03-18 07:31:24.835 tc:Delete 7 files in:/storage/emulated/0/DCIM/Camera/
+2024-03-18 10:19:46.490 tc:Delete 19 files in:/storage/emulated/0/DCIM/Camera/
+2024-03-20 07:29:31.941 tc:unpack:/storage/emulated/0/DCIM/Camera/.videorecorder.tmp->/storage/emulated/0/DCIM/Camera/.videorecorder/
